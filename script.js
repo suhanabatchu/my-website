@@ -43,3 +43,11 @@ function validateForm() {
 
     return false;
 }
+
+function enlargeImage(image) {
+    image.style.transform = "scale(1.1)";
+}
+
+function shrinkImage(image) {
+    image.style.transform = "scale(1)";
+}

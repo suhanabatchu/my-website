@@ -171,9 +171,6 @@ footer {
     transition: transform 0.3s;
 }
 
-.recipe-image img:hover {
-    transform: scale(1.1);
-}
 
 .form-box {
     background-color: white;
